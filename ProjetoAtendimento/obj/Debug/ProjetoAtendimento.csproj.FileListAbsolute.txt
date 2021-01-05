@@ -1,0 +1,10 @@
+C:\Users\Philc\Desktop\Ed\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\ProjetoAtendimento.exe.config
+C:\Users\Philc\Desktop\Ed\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\ProjetoAtendimento.exe
+C:\Users\Philc\Desktop\Ed\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\ProjetoAtendimento.pdb
+C:\Users\Philc\Desktop\Ed\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.csprojAssemblyReference.cache
+C:\Users\Philc\Desktop\Ed\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.Properties.Resources.resources
+C:\Users\Philc\Desktop\Ed\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.csproj.GenerateResource.cache
+C:\Users\Philc\Desktop\Ed\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\Philc\Desktop\Ed\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.exe
+C:\Users\Philc\Desktop\Ed\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.pdb
+C:\Users\Philc\Desktop\Ed\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.Form1.resources
